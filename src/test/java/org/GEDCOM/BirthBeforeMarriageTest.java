@@ -5,8 +5,8 @@ import junit.framework.TestCase;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 
-public class BirthBeforeMarrigeTest extends TestCase {
-    BirthBeforeMarrige bbm = new BirthBeforeMarrige();
+public class BirthBeforeMarriageTest extends TestCase {
+    BirthBeforeMarriage bbm = new BirthBeforeMarriage();
     public void test1() throws FileNotFoundException {
         ArrayList list = new ArrayList();
         list.add("1783");

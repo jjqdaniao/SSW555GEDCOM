@@ -9,7 +9,7 @@ import java.util.Scanner;
 /**
  * Author Yi Jing
  */
-public class BirthBeforeMarrige {
+public class BirthBeforeMarriage {
     private static Scanner scan;
     private static BufferedWriter writer;
 
